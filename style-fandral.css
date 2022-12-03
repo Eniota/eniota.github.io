@@ -1,0 +1,68 @@
+section {
+	font-family : Arial;
+	color : purple;
+	border-style : dashed;
+	border-color : #6699CC;
+	box-shadow : 6px 6px 0px orange;
+	margin: 3%;
+	float: center;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	color : yellow;
+}
+
+li {
+	font-size: 20px;
+}
+
+.class1 {
+	font : Verdana;
+	color : #5F5700;
+}
+
+div {
+	font-weight: bold;
+}
+
+a:link {
+	color: #6699CC;
+}
+a:visited {
+	color: red;
+}
+a:active {
+	color : orange;
+}
+a:hover {
+	color : #FD6C9E;
+}
+
+header, footer, h1 {
+	border : 2px solid black;
+	box-shadow : 6px 6px 0px grey;
+	margin : 5px;
+}
+
+nav {
+	float: left;
+	border : 2px solid black;
+	box-shadow : 6px 6px 0px grey;
+	margin: 5px;
+	width: 15%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+aside {
+	border : 2px solid black;
+	box-shadow : 6px 6px 0px grey;
+	margin : 5px;
+	float: right;
+	width: 20%;
+}
