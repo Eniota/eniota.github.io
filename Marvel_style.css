@@ -15,6 +15,7 @@ table { font-family: 'Quicksand', regular;
 tbody
 {
   background-color : #330000 ;
+  opacity: 0.8;
 }
 
 th {
