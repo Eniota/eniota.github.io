@@ -1,6 +1,7 @@
 body 
 { 
-  background-image : url(./backgroundMarvel.jpg);
+  background-color : red;
+  background-image : url(backgroundMarvel.jpg);
 }
 
 table { font-family: 'Quicksand', regular;
