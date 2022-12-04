@@ -30,3 +30,9 @@ tbody td {
 tfoot th {
   text-align: right;
 }
+
+th > img
+{
+  width: 250px;
+  heigth : 250px;
+}
