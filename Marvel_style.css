@@ -1,4 +1,8 @@
-body { background : href="backgroundMarvel.jpg"; }
+body 
+{ 
+  background-color : red;
+  background : href="backgroundMarvel.jpg";
+}
 
 table { font-family: 'Quicksand', regular;
   table-layout: fixed;
