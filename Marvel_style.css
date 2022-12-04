@@ -1,6 +1,7 @@
 body 
 {
   background-image : url(backgroundMarvel.jpg);
+  background-size : 1920px 1080px;
 }
 
 table { font-family: 'Quicksand', regular;
