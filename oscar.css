@@ -1,0 +1,101 @@
+
+header{
+    height: 50vh;  
+    width : 50vw;
+    background-size: cover;
+}
+
+header nav ul{
+    color :white;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+header nav ul li {
+    margin : 0px;
+    padding: 0px;
+    width: 200px; 
+    height: 40px;
+    background-color: rgba(0,0,0.7);
+    line-height : 40px;
+    text-align : center;
+
+}
+header nav ul li a {
+    display: block;
+
+}
+header nav ul li a:hover{
+    color : white;
+    background-color: red;
+
+}
+section#contenue{
+    width : 48%;
+
+}
+section#contenue section.coté-droit {
+    border : black solid 2px ;
+}
+
+footer {
+    background-color: black;
+    color : white;
+    text-align: center;
+
+
+}
+li a{
+    color : white ;
+}
+
+p{
+    border : medium groove black ;
+    text-align : center ;
+    font-family : "11" ;src : url('11.woff');
+
+}
+
+.right {
+    float : right;
+    margin :100px 0px 0px 0px ;
+
+
+}
+body{
+     background : linear-gradient(to bottom right,#A2A2FF ,#FF7F7F)
+
+}
+
+
+section#coté-gauche img.right{
+   margin : 0px,0px,0px,97px;
+   float:right;
+}
+
+u.titre{
+
+    text-align : center;
+
+}
+section#contenue section.coté-droit{
+    border: 2px solid black;
+}
+
+section#contenue {
+    display : inline-block;
+    width : 48%;
+
+
+}
+
+section#deuxième section {
+    display : inline-block;
+    width : 33%;
+
+
+}
+
