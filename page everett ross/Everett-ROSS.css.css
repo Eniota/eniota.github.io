@@ -1,0 +1,20 @@
+@font-face { font-family : base
+			src : url('quicksand_police/quicksand-regular.otf') }
+			
+h1{ font-family : gros
+	src : url ('quicksand_police/quicksand-bold.otf') }
+
+body { font-family : base ;
+background : #909090 }
+
+nav { }
+
+header { float : center }
+
+aside { float : right }
+
+section#content { float : left }
+
+article { float : left }
+
+footer { float : right } 
