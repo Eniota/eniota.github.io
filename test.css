@@ -1,0 +1,93 @@
+*{
+    margin :0;
+    padding : 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body{
+    background-size: cover;
+    background-image : url(backgroundMarvel.jpg);
+}
+
+header{
+    height: 70vh;  
+    width : 70vw;
+    background-size: cover;
+}
+
+header nav ul{
+    color :white;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+header nav ul li {
+    margin : 0px;
+    padding: 0px;
+    width: 250px;
+    height: 40px;
+    background-color: rgba(,0,0,0.7);
+    float: left;
+    line-height: 40px;
+    text-align: center;
+
+}
+header nav ul li a {
+    display: block;
+
+}
+header nav ul li a:hover{
+    color : white;
+    background-color: red;
+
+}
+nav ul {list-style:none;padding:0px;margin:0px;} /*pas de marge, pas de puce*/
+nav ul li {float:left;padding:0px;margin:0px;padding-right:20px;} /*menu horizontal, espace séparateur 20px*/ 
+nav ul li ul {margin:0px; padding:0px; position:absolute; float:none; display:none;} /*pas d'affichage de sous-menu*/
+nav ul li:hover ul {display:block;}  /*élément menu survolé : afficher sous-menu, vertical*/
+nav ul li ul li { margin:0px; padding:0px; float:none;} /*élément sous-menu vertical*/ 
+nav ul li ul li a {width:150px; display:block;} /*lien sous-menu : largeur élément 150px*/
+
+
+table { font-family: 'Quicksand', regular;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid red;
+    color : #FF0000 ;
+  }
+  
+  tbody
+  {
+    background-color : #330000 ;
+    opacity: 0.8;
+  }
+  
+  th {
+    letter-spacing: 2px;
+  }
+  
+  td {
+    letter-spacing: 1px;
+  }
+  
+  tbody td {
+    text-align: center;
+    height : 100px ;
+    width : 100px ;
+  }
+  
+  tfoot th {
+    text-align: right;
+  }
+  
+  th > img
+  {
+    width: 250px;
+    height : 250px;
+  }
