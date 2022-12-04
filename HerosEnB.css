@@ -1,0 +1,30 @@
+@font-face{font-family : Gill Sans, sans-serif;
+}
+
+body {color : blue;
+}
+h1{color : red;
+text-align : center;
+}
+
+hr{width : 80%;
+text-align : center;
+}
+
+
+p > a{text-align : right;
+}
+p > b {color : green;
+}
+p > i{color : purple;
+}
+p > small{color : orange;
+}
+p > em{color : pink;
+}
+p > u{color : #FF0000;
+}
+p > ul{color : #00FFFF;
+}
+u{color : cyan
+}
