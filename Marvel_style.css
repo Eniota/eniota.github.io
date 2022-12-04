@@ -1,7 +1,7 @@
 body 
 {
   background-image : url(backgroundMarvel.jpg);
-  background-size : 1920px 1080px;
+  background-size : 1920px 1080px ;
 }
 
 table { font-family: 'Quicksand', regular;
@@ -14,7 +14,7 @@ table { font-family: 'Quicksand', regular;
 
 tbody
 {
-  background-color : #330000;
+  background-color : #330000 ;
 }
 
 th {
